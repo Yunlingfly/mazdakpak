@@ -12,6 +12,6 @@
 <p align="center">
   <a href="mailto:mazdakpak@icloud.com">Email</a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/mazdakpak">Instagram</a>
+  <a href="https://instagram.com/its_mazdak">Instagram</a>
 
 </p>
