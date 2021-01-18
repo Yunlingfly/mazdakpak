@@ -1,3 +1,7 @@
+### 💸💰 Donation 
+#### BTC: bc1qjhrlzxgw4hn3vjrp08rsld7cfewt33rqacyhen
+
+#### ETH: 0x5692d479a0aE639ac91da37284a8cab94F5275f6
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
